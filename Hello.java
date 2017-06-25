@@ -8,3 +8,6 @@ class Foo{
 
 
 }
+
+class Baz{}
+
