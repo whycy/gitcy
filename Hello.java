@@ -14,3 +14,6 @@ class Baz{}
 class Bar{
 }
 ...............abc
+
+class dev{
+}
