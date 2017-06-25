@@ -14,3 +14,4 @@ class Baz{}
 class Bar{
 }
 ...............abc
+.....bug
